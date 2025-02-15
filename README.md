@@ -2,3 +2,6 @@
 serv00自动网页保活
 
 脚本来自甬哥sing-box-yg项目，只提取了其中serv00网页保活部分
+
+
+原项目地址 https://github.com/yonggekkk/sing-box-yg
