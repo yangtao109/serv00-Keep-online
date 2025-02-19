@@ -7,7 +7,7 @@ on:
   workflow_dispatch: 
 
 jobs:
-  fetch-urls:
+  serv00网页保活:
     runs-on: ubuntu-latest
     
     steps:
